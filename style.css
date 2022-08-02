@@ -22,11 +22,22 @@ h3{
     background-size: cover;
     background-repeat: no-repeat;
     padding: 150px 0;
+    width:100%;
 }
 .link-button{
     text-decoration: none;
+    padding:15px 20px;
+    border-radius: 10px;
+    background-color:tomato;
     text-align: center;
+    }
+section{
+    margin-bottom: 100px;
 }
+
+    
+
+
  
 
     
