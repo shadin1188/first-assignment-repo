@@ -12,10 +12,11 @@ h1{
 }
 h3{
     text-align: center;
-    line-height: 60%;
+    line-height: 80%;
     color: white;
     font-weight:10px;
-}
+    }
+
 .top-banner{
     background-image: url(images/donation13.jpg);
     background-position:center;
@@ -26,16 +27,81 @@ h3{
 }
 .link-button{
     text-decoration: none;
-    padding:15px 20px;
-    border-radius: 10px;
+    padding:10px 20px;
+    border-radius: 5px;
     background-color:tomato;
-    text-align: center;
-    }
-section{
-    margin-bottom: 100px;
+    
+   
 }
 
+section a{
+    margin:599px;
+    margin-inline-end:10px;
+  
+}
+.donate-now{
+color:black;
+
+}
+.donate{
+    color:black;
+    line-height: 60%;
+}
+.donate-today{
+    margin: 100px;
+}
+#black{
+    color:black;
+    display: flex;
+}
+.taka{
+background-color:#ddc3c3;
+height: 100px;
+width:100px;
+float: left;
+text-align: center;
+margin: 20px;
+font-size: 25px;
+padding: 10px;
+font-display: ;
+border-radius: 5px;
+}
+
+.my-div{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 20px;
+    line-height: 100px;
     
+ }   
+ #border{
+    border: 2px solid tomato;
+    border-radius: 5px;
+ }          
+p{
+    text-align: center;
+    font-size: 20px;
+    line-height: 80px;
+    color: rgb(78, 187, 190);
+}
+.line{
+    position: absolute;
+    width: 800px;
+    height: 2px;
+    left: 270px;
+    top: 1100.5px;
+    }
+
+.donate-taka{
+    text-decoration: none;
+    padding:10px 20px;
+    border-radius: 5px;
+    background-color:tomato;
+    text-align:center;
+    margin:490px;
+    }
 
 
  
