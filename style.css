@@ -10,7 +10,7 @@ h1{
 .orange-color{
     color: chocolate;
 }
-h3{
+.help{
     text-align: center;
     line-height: 80%;
     color: white;
@@ -24,6 +24,7 @@ h3{
     background-repeat: no-repeat;
     padding: 150px 0;
     width:100%;
+    
 }
 .link-button{
     text-decoration: none;
@@ -46,6 +47,8 @@ color:black;
 .donate{
     color:black;
     line-height: 60%;
+    text-align: center;
+   
 }
 .donate-today{
     margin: 100px;
@@ -80,7 +83,7 @@ border-radius: 5px;
     border: 2px solid tomato;
     border-radius: 5px;
  }          
-p{
+ .amount{
     text-align: center;
     font-size: 20px;
     line-height: 80px;
@@ -89,7 +92,7 @@ p{
 .line{
     position: absolute;
     width: 800px;
-    height: 2px;
+    height: 1px;
     left: 270px;
     top: 1100.5px;
     }
@@ -102,6 +105,55 @@ p{
     text-align:center;
     margin:490px;
     }
+    .margin{
+        margin-top: 10%;
+    }
+                
+.margin-bottom{
+    margin-top: 5%;
+    display: flex;
+    text-align: center
+    width:auto;
+    justify-content:center;
+
+    
+}
+.team{
+  background-color: rgba(255, 89, 89, 0.1);  
+  margin: 12px;
+  margin-bottom: 50px;
+  width: 330px;
+  height: 352px;
+  text-align: center;
+  border-radius: 5px;
+
+
+}
+.team.team h3{
+    margin-top:15px;
+    text-align: left;
+    font-size:25px;
+}
+.team.team p{
+    text-align: left;
+}
+.icon{
+    margin-top:80px;
+    margin-right:70%;
+}
+#change-color{
+    background-color:cornsilk;
+}
+ 
+
+  
+ 
+  
+
+
+
+    
+
 
 
  
