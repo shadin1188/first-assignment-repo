@@ -144,7 +144,7 @@ border-radius: 5px;
 
 
 .depend-on{
-    margin-top:-150px;
+    margin-top:-10px;
 }
 .four{
     
@@ -202,9 +202,25 @@ border-radius: 5px;
     
    margin-top:-190px;
 }
-    
-
-
+.updates{
+font-size: 50px;
+line-height: 60%;
+text-align: center;
+color: rgb(44, 11, 11);
+}
+.last{
+    text-align: center;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    height: 100px;
+}
+.form-box{
+    padding: 90px 350px;
+    background:blue;
+    box-sizing: content-box;
+}
  
  
 
