@@ -31,15 +31,12 @@ h1{
     padding:10px 20px;
     border-radius: 5px;
     background-color:tomato;
-    
+    margin:599px;
+    margin-inline-end:10px;
    
 }
 
-section a{
-    margin:599px;
-    margin-inline-end:10px;
-  
-}
+
 .donate-now{
 color:black;
 
@@ -144,6 +141,68 @@ border-radius: 5px;
 #change-color{
     background-color:cornsilk;
 }
+
+
+
+.four{
+    margin-top: 20px;
+    display: flex;
+    width: auto;
+    padding: 140px;
+    margin: 50px;
+    margin-left: 20px;
+ 
+}
+ .four h2 {
+    color: black;
+    text-align: left;
+    font-size: 40px;
+    line-height: 30px;
+ }
+ 
+.four p{
+    line-height:15px
+}  
+.one-taka{
+    height: 480px;
+    width: 460px;
+
+}
+.contribute{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-color:tomato;
+    border-radius: 5px;
+    
+    
+}
+ 
+
+    
+    
+
+.five-new {
+    display: flex;
+    margin-top:auto;
+   padding: 130px;
+    margin: 20px;
+    margin-left: 50px;
+}
+.five-new h2{
+    color: black;
+    text-align: left;
+    font-size: 40px;
+    line-height: 30px;
+}
+.two-team{
+    padding: 80px; 
+}
+    
+
+
+ 
+ 
+
  
 
   
