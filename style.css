@@ -143,9 +143,11 @@ border-radius: 5px;
 }
 
 
-
+.depend-on{
+    margin-top:-150px;
+}
 .four{
-    margin-top: 20px;
+    
     display: flex;
     width: auto;
     padding: 140px;
@@ -182,11 +184,10 @@ border-radius: 5px;
     
 
 .five-new {
-    display: flex;
-    margin-top:auto;
+   display: flex;
    padding: 130px;
-    margin: 20px;
-    margin-left: 50px;
+   margin: 20px;
+   margin-left: 40px;
 }
 .five-new h2{
     color: black;
@@ -196,6 +197,10 @@ border-radius: 5px;
 }
 .two-team{
     padding: 80px; 
+}
+.five{
+    
+   margin-top:-190px;
 }
     
 
