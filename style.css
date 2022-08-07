@@ -155,6 +155,9 @@ border-radius: 5px;
     margin-left: 20px;
  
 }
+.four{
+    margin-top: -70px;
+}
  .four h2 {
     color: black;
     text-align: left;
@@ -202,6 +205,9 @@ border-radius: 5px;
     
    margin-top:-190px;
 }
+
+
+
 .updates{
 font-size: 50px;
 line-height: 60%;
@@ -211,31 +217,56 @@ color: rgb(44, 11, 11);
 .last{
     text-align: center;
 }
-.box{
+
+  
+ 
+  .container{
+    text-align: center;
+    color:rgb(62, 209, 72);
+    padding: 100px 60px ;
+    background-color: rgba(146, 79, 79, 0.1);  
+  margin: 300px;
+  margin-bottom: 40px;
+  width: 630px;
+  height: 20px;
+  text-align: center;
+  border-radius: 5px;
+  margin-top: 40px;
+
+
+  }
+  .email-box{
+    height: 40px;
     display: flex;
     justify-content: center;
-    height: 100px;
-}
-.form-box{
-    padding: 90px 350px;
-    background:blue;
-    box-sizing: content-box;
-}
- 
- 
-
- 
-
+  }
   
- 
   
-
-
+  .tbox{
+    outline: 260px;
+    padding: 0 25px;
+   
+  }
+    
+  .btn{
+    background:#2f3542;
+    color:white;
+    padding: 0 40px;
+    
+}
+.six{
+    margin-top: -80px;
+}
+.be{
+    color: black;
+    text-align: center;
+    padding: 10px 15px;
+    font-family: 'Poppins', sans-serif;
+   
 
     
 
-
-
- 
-
-    
+}
+black{
+    color: chartreuse;
+}
