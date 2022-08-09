@@ -1,5 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    
+    
 }
 h1{
     font-size: 50px;
@@ -210,7 +217,7 @@ border-radius: 5px;
 
 .updates{
 font-size: 50px;
-line-height: 60%;
+line-height: 90px;
 text-align: center;
 color: rgb(44, 11, 11);
 }
@@ -257,16 +264,30 @@ color: rgb(44, 11, 11);
 .six{
     margin-top: -80px;
 }
+
+
+
 .be{
-    color: black;
+    color: rgb(93, 139, 79);
     text-align: center;
-    padding: 10px 15px;
-    font-family: 'Poppins', sans-serif;
+    padding: 50px 15px;
+    font-family: 'Lobster', cursive;
+    margin-top: 80px;
+    margin-bottom: 0px;
+    
+    font-size:xx-large;
+    font-weight: 200;
+    
    
 
     
-
+ }
+.black{
+    background-color: #0B0D17;;
 }
-black{
-    color: chartreuse;
+.gonna{
+    text-align: center;
+    color:cadetblue;
+    line-height: 30px;
+    
 }
