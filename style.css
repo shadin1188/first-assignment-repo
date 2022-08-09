@@ -151,19 +151,21 @@ border-radius: 5px;
 
 
 .depend-on{
-    margin-top:-10px;
+    margin-top:30px;
 }
 .four{
     
     display: flex;
     width: auto;
-    padding: 140px;
-    margin: 50px;
+    padding: 120px;
+    margin: 30px;
     margin-left: 20px;
+    line-height: 50px;
+    
  
 }
 .four{
-    margin-top: -70px;
+    margin-top: -80px;
 }
  .four h2 {
     color: black;
@@ -173,13 +175,9 @@ border-radius: 5px;
  }
  
 .four p{
-    line-height:15px
+    line-height:20px;
 }  
-.one-taka{
-    height: 480px;
-    width: 460px;
 
-}
 .contribute{
     text-decoration: none;
     padding: 10px 40px;
@@ -187,17 +185,24 @@ border-radius: 5px;
     border-radius: 5px;
     
     
+    
 }
- 
+
+.one-taka{
+    height: 480px;
+    width: 460px;
+    margin: 40px;
+    margin-top: -30px;
+}
 
     
     
 
 .five-new {
    display: flex;
-   padding: 130px;
+   padding: 100px;
    margin: 20px;
-   margin-left: 40px;
+   margin-left: 0;
 }
 .five-new h2{
     color: black;
@@ -210,7 +215,7 @@ border-radius: 5px;
 }
 .five{
     
-   margin-top:-190px;
+   margin-top:-180px;
 }
 
 
